@@ -12,10 +12,7 @@ The following sections describe the original project this work is based on, reta
 
 A 3D printed automatic wire stripper and cutter. You simply choose your measurements on a screen, press a button, and it does it all for you. It will strip the wire and cut the wire depending on the options you chose.
 
-
-There is a [video](https://youtu.be/pbuzLy1ktKM) associated with this repository/project, I highly recommend watching it before using this repo.
-
-[![Video](readme_imgs/thumbnail.png)](https://youtu.be/pbuzLy1ktKM "Automatic_wire_stripper_cutter")
+<img src="readme_imgs/thumbnail.png">
 
 
 # Arduino
