@@ -4,6 +4,19 @@
 
 This repository is currently being adapted and extended by Team-Elite for SIH 2025. The work focuses on automating specimen preparation workflows for cable testing in accordance with IS 10810 and IS 7098. The implementation builds upon and customizes an existing open-source automatic wire stripping and cutting solution.
 
+## At a Glance
+
+### Assembly Layout (Board 280×200 mm)
+<a href="./assembly_layout.pdf" title="Open assembly layout PDF">
+  <img src="./readme_imgs/thumbnail.png" alt="Assembly layout preview" title="Assembly Layout — open PDF for details" style="max-width: 100%; height: auto;" />
+</a>
+
+### Breadboard Wiring (ESP32 + A4988 + OLED)
+<img src="readme_imgs/breadboard.png" alt="Breadboard wiring diagram for ESP32, A4988 drivers, OLED, and power" title="Breadboard Wiring Diagram" />
+
+### UI and Blade Mechanism Close‑up
+<img src="readme_imgs/thumbnail.png" alt="OLED UI showing parameters and blade mechanism close-up" title="OLED UI and Blade Mechanism" />
+
 ## Project Background (Upstream Base)
 
 The following sections describe the original project this work is based on, retained here for reference while we integrate SIH-specific functionality and standards compliance.
